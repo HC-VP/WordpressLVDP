@@ -1,0 +1,5 @@
+wordpress username : LVDPAdmin
+
+Wordpress password : UNPASSWORDROBUSTE
+
+WordPress e-mail : laviedesplantes@gmail.com
